@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HappyParrot3562
+- 👋 Hi, I’m @tellojorge2005
 - 👀 I’m interested in Video Games, Artificial Intelligence (AI), Music and creating my own Virtual Instruments (VST)
 - 🌱 I’m currently learning Object-Oriented Programming (OOP) with Python and Java
 - 💞️ I’m looking to collaborate on nothing currently
